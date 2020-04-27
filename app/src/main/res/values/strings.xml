@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="store">Tienda</string>
+    <string name="title_cupon">titulo</string>
+    <string name="start">start</string>
+    <string name="oferta">oferta</string>
+    <string name="valid">Válido hasta:</string>
+</resources>
